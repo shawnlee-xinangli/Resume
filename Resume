@@ -1,0 +1,43 @@
+                                                                  Xinang(Shawn) Li
+(323)-447-5562 | xinangli@usc.edu | https://www.linkedin.com/in/shawn-xinang-lee-a64a4813a/ | https://github.com/shawnlee-xinangli
+
+Summary                                                                                       
+Objective: Seeking Software Development Engineer Position (Better if Data-Science or Fintech related)
+Language: Proficient in Java and Python                           Familiar with Matlab, C/C++, R, JavaScript, HTML, CSS, MySQL
+Technologies: Web Development, MangoDB, MySQL, Hadoop, Bootstrap, Object-Oriented Programming, Spark, Data Structures and Algorithms, AWS/GCP
+
+Education                                                                                      
+University of Southern California Viterbi School of Engineering                                                            Los Angeles
+M.S. in Electrical Engineering (Financial Engineering)            GPA:4.00/4.00                                     Aug.2019 - May.2021
+University of California, Berkeley                                                                                           Berkeley
+Global Access Program (Self learned CS 61A &61B Online)           GPA:3.88/4.00                                    Jan.2017 - May 2017
+Soochow University                                                                                                           Suzhou
+B.S. in Finance and Banking;                                      GPA: 3.6/4.0                                      Sep.2015 - July 2019
+	Awards: First Class Scholarship for Outstanding Academic Performance (Top 10%); Honor Student from C.W. Chu College (100/3000)
+
+Professional Experiences                                                                             
+Soochow Securities Co., Ltd.                                                                                                  Suzhou
+Software Engineer Intern, Fixed Income Department                                                                    July 2018 - Aug.2018
+	Designed and developed credit-risk monitoring and pre-warning system using Java, Spring Boot, MongoDB, HTML, JavaScript and Bootstrap. Improved the risk detection rate from 43% to 72% and enhanced the rating efficiency by 30%.
+	Designed and implemented a credit rating methodology for startups using the AHP (Analytic Hierarchy Process) method with reference to methods of S&P’s and Moody’s and used MATLAB to compute the metrics for each type of risk. 
+	Implemented Web Scraping technology with beautifulsoup4 in Python so as to extract data from the webs. Analyzed both the quantitative and qualitative credit risks of 26 different local startups. 
+
+China Asset Management Co., Ltd.                                                                                              Beijing
+Quantitative Analyst Intern, Research and Development Department                                                     Mar. 2018 - May 2018
+	Research on the Market Reaction to the Pre-Losing event of the listed companies through Event Study.
+	Developed a linear regression model of normal return based on market return for each stock through STATA and used logistic regression to classify normal and abnormal returns using Matlab and came to the conclusion that the Pre-Losing declaration does have negative impact on the return of the stock.
+
+Ernst & Young LLP.                                                                                   Macau & Suzhou
+Project Assistant, Assurance and Advisory Business Service                                                            Jan.2018 - Feb.2018
+	Finished Test of Detail on over 800K transactions entries in the client’s financial statements with an automation tool implemented by VBA (Built-in language in Excel) with Ben Ford’s Law and proved that there is no fraudulence in the information provided by the client.
+
+Projects and Achievements                                                                         
+	YelpCamp                                           Course Project from Web Development Bootcamp                    Aug.2019 – present
+-	Developed a complicated yelp-like application with JavaScript, HTML and CSS.
+	Empirical Research on Volatility of Shanghai Composite Index using GARCH Model     Bachelor Thesis                Jan.2019 - Apr.2019
+-	Effectively implemented APIs like Pandas, Numpy, Matplotlib.pyplot, Stats, arch in Python to do the Data Analysis and Visualization and came to the conclusion that there does exist a GARCH effect on the volatility of shanghai stock index.
+	Mathematical Contest in Modeling (MCM)                                     Team Leader                                      Feb.2018
+-    Exploited Tensorflow, seaborn, sklearn and other APIS related to Statistics and Machine Learning in Python to do the modeling and prediction of the number of the speakers of various language in the world and came to the conclusion that the Economy has the greatest impact on the number of speakers for a certain kind of language.
+	Monte-Carlo Simulation for Geometric Brownian Motion(GBM)         Course Project from Risk Management                       Oct.2017
+-	Used the portsim API from Financial Toolbox in MATLAB to simulate the price movement of a stock on 10,000 observations and proved that the stock price does conform to the Geometric Brownian Motion.
+
